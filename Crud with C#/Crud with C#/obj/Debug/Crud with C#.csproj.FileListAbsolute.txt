@@ -1,0 +1,5 @@
+C:\Users\rmflores\Documents\SharpDevelop Projects\Crud with C#\Crud with C#\obj\Debug\Crud with C#.csprojResolveAssemblyReference.cache
+C:\Users\rmflores\Documents\SharpDevelop Projects\Crud with C#\Crud with C#\bin\Debug\Crud with C#.exe
+C:\Users\rmflores\Documents\SharpDevelop Projects\Crud with C#\Crud with C#\bin\Debug\Crud with C#.pdb
+C:\Users\rmflores\Documents\SharpDevelop Projects\Crud with C#\Crud with C#\obj\Debug\Crud with C#.exe
+C:\Users\rmflores\Documents\SharpDevelop Projects\Crud with C#\Crud with C#\obj\Debug\Crud with C#.pdb
